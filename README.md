@@ -3,7 +3,9 @@ Provide a script to crop the image even the crop bounding box outside the image.
 
 eg:
 
-![plot](./test.png)
+![plot](./images/img1.jpg)
+
+![plot](./images/img2.jpg)
 
 ## Prerequisites
 
@@ -48,3 +50,4 @@ Following modules are needed:
 ## Authors
 
 * **Muhammad Tahir Rafique**
+
